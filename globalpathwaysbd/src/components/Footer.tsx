@@ -50,12 +50,11 @@ export default function Footer() {
                 <GraduationCap className="text-white" size={24} />
               </div>
               <div>
-                <span className="text-lg font-bold">GlobalPathways</span>
-                <span className="text-lg font-bold text-accent-light">BD</span>
+                <span className="text-lg font-bold">KKGlobalStudies</span>
               </div>
             </div>
             <p className="text-white/80 text-sm leading-relaxed mb-4">
-              GlobalPathwaysBD is a leading education consultancy in Bangladesh, 
+              KKGlobalStudies is a leading education consultancy in Bangladesh, 
               dedicated to helping students achieve their dream of studying at 
               top UK universities.
             </p>
@@ -117,8 +116,8 @@ export default function Footer() {
               </div>
               <div className="flex items-center gap-3">
                 <Mail size={18} className="shrink-0 text-accent-light" />
-                <a href="mailto:info@globalpathwaysbd.com" className="text-white/80 hover:text-white text-sm transition-colors">
-                  info@globalpathwaysbd.com
+                <a href="mailto:kkglobalstudies24@gmail.com" className="text-white/80 hover:text-white text-sm transition-colors">
+                  kkglobalstudies24@gmail.com
                 </a>
               </div>
             </div>
@@ -129,7 +128,7 @@ export default function Footer() {
       {/* Bottom Bar */}
       <div className="border-t border-white/20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex flex-col sm:flex-row justify-between items-center gap-2 text-sm text-white/60">
-          <p>© {new Date().getFullYear()} GlobalPathwaysBD. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} KKGlobalStudies. All rights reserved.</p>
           <div className="flex gap-4">
             <Link href="/privacy" className="hover:text-white transition-colors">Privacy Policy</Link>
             <Link href="/terms" className="hover:text-white transition-colors">Terms of Service</Link>

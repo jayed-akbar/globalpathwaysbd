@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 GlobalPathwaysBD
+# 🎓 KKGlobalStudies
 
 **Your Gateway to UK Education**
 
@@ -19,7 +19,7 @@ A modern, SEO-optimized education consultancy website helping Bangladeshi studen
 
 ## 📋 About
 
-**GlobalPathwaysBD** is a professional education consultancy website built for a Bangladeshi firm that helps students apply to UK universities. The site serves as an information hub covering university selection, admission requirements, visa processes, scholarships, IELTS preparation, and more.
+**KKGlobalStudies** is a professional education consultancy website built for a Bangladeshi firm that helps students apply to UK universities. The site serves as an information hub covering university selection, admission requirements, visa processes, scholarships, IELTS preparation, and more.
 
 ### Who is this for?
 

@@ -16,11 +16,11 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "GlobalPathwaysBD - Study in UK | Education Consultancy Bangladesh",
-    template: "%s | GlobalPathwaysBD",
+    default: "KKGlobalStudies - Study in UK | Education Consultancy Bangladesh",
+    template: "%s | KKGlobalStudies",
   },
   description:
-    "GlobalPathwaysBD is a leading education consultancy in Bangladesh helping students pursue higher education in the UK. Expert guidance for university admission, visa, IELTS, and scholarships.",
+    "KKGlobalStudies is a leading education consultancy in Bangladesh helping students pursue higher education in the UK. Expert guidance for university admission, visa, IELTS, and scholarships.",
   keywords: [
     "study in UK",
     "UK university admission",
@@ -29,16 +29,16 @@ export const metadata: Metadata = {
     "IELTS preparation Dhaka",
     "UK scholarship Bangladesh",
     "study abroad consultancy",
-    "GlobalPathwaysBD",
+    "KKGlobalStudies",
     "higher education UK",
   ],
-  authors: [{ name: "GlobalPathwaysBD" }],
+  authors: [{ name: "KKGlobalStudies" }],
   openGraph: {
-    title: "GlobalPathwaysBD - Your Gateway to UK Education",
+    title: "KKGlobalStudies - Your Gateway to UK Education",
     description:
       "Expert education consultancy helping Bangladeshi students achieve their dream of studying at top UK universities.",
-    url: "https://globalpathwaysbd.com",
-    siteName: "GlobalPathwaysBD",
+    url: "https://jayed-akbar.github.io/globalpathwaysbd/",
+    siteName: "KKGlobalStudies",
     locale: "en_US",
     type: "website",
   },

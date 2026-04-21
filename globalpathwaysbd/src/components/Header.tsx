@@ -31,8 +31,8 @@ export default function Header() {
               <span>+880 1XXX-XXXXXX</span>
             </a>
             <span className="hidden sm:inline">|</span>
-            <a href="mailto:info@globalpathwaysbd.com" className="hidden sm:inline hover:text-accent-light transition-colors">
-              info@globalpathwaysbd.com
+            <a href="mailto:kkglobalstudies24@gmail.com" className="hidden sm:inline hover:text-accent-light transition-colors">
+              kkglobalstudies24@gmail.com
             </a>
           </div>
           <div className="hidden sm:flex items-center gap-2 text-xs">
@@ -51,9 +51,8 @@ export default function Header() {
               <GraduationCap className="text-white" size={28} />
             </div>
             <div>
-              <span className="text-xl font-bold text-primary">GlobalPathways</span>
-              <span className="text-xl font-bold text-secondary">BD</span>
-              <p className="text-[10px] text-text-gray -mt-1">Your Gateway to UK Education</p>
+              <span className="text-xl font-bold text-primary">KKGlobalStudies</span>
+              <p className="text-[10px] text-text-gray -mt-1">Your Gateway to Higher Education</p>
             </div>
           </Link>
 
